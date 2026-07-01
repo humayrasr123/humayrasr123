@@ -15,7 +15,7 @@
 
 ### 🔬 About Me
 
-I'm a Computer Science undergraduate at **California State University, Los Angeles**, currently researching **quantum machine learning**, with applications spanning **drug discovery** and **financial modeling**. My long-term goal is to pursue a **Ph.D.** and contribute to the intersection of quantum computing and applied machine learning.
+I'm a an undergraduate student at **California State University, Los Angeles**, majoring in **Computer Science** with a minor in **Finance.** Currently, I am researching on **quantum machine learning**, with applications spanning **drug discovery** and **financial modeling**. My long-term goal is to pursue a **Ph.D.** and contribute to the intersection of quantum computing and applied machine learning.
 
 - 🧪 Researching hybrid classical–quantum ML models for real-world prediction tasks
 - 📈 Comparing quantum vs. classical approaches for financial time-series forecasting
