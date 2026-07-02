@@ -61,38 +61,5 @@ I'm a an undergraduate student at **California State University, Los Angeles**, 
 
 ---
 
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🚗 Autonomous Driving Car</h4>
-      <p>Collaborative research/engineering project focused on autonomous vehicle systems, developed with a team.</p>
-      <img src="https://img.shields.io/badge/TeX-informational?style=flat-square" />
-      <br/>
-      <sub>🔗 <code>TeamCoolKats/Autonomous-Driving-Car</code></sub>
-    </td>
-    <td width="50%">
-      <h4>🐍 Python Snake Game</h4>
-      <p>Classic Snake game implementation showcasing core Python programming and game-loop logic.</p>
-      <img src="https://img.shields.io/badge/Python-informational?style=flat-square" />
-      <br/>
-      <sub>🔗 <code>python_snake_game</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>⚛️ [Quantum ML Research Project]</h4>
-      <p>Placeholder — add your quantum GAN / hybrid quantum-classical ML repo here once published.</p>
-      <sub>🔗 <em>coming soon</em></sub>
-    </td>
-    <td width="50%">
-      <h4>📊 [Quantum vs. Classical Finance Model]</h4>
-      <p>Placeholder — add your stock return prediction research repo here.</p>
-      <sub>🔗 <em>coming soon</em></sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
