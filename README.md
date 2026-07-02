@@ -60,6 +60,3 @@ I'm a an undergraduate student at **California State University, Los Angeles**, 
 </p>
 
 ---
-
----
-
